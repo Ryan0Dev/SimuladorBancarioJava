@@ -1,15 +1,16 @@
-# 💰 Simulador Conta Bancária Java
-**32 dias Alura** | Treino Back-end
+Simulador Conta Bancária Java
+32 dias de Treino Back-end
 
-## 🎓 MODO EDUCATIVO
+POSSUI MODO EDUCATIVO
 Opção 4: Guia investimentos brasileiros!
 
-## ✨ Features
+Features
 - 12 investimentos reais
 - Taxas progressivas VIP
 - Juros compostos
 - Pix/Boleto/Cartão
 
-## 🖥️ Rodar
+Rodar
 javac ContaBancaria.java
 java ContaBancaria
+
